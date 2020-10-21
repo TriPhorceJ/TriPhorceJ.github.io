@@ -1,7 +1,18 @@
-## TriPhorceJ
-
-## Welcome to GitHub Pages
-
+### TriPhorceJ's WebPage!
+```
++--------------------+
+|     #@@@@#         |
+|    @WWWWWM@        |
+|   #WWWWM$WM        |
+|   #@@$@@#$$#@#     |_____________________________________________________________________
+|    @@@@@@@@$WM$@#  |    ____      ____        __          _____                     
+|     @@@@@@$WWWWMM$@|    /    )    /    )    /    )        /    '    ,           /        
+|      @@@@MWWWWWWWWM|---/___ /----/____/----/-------------/__-------------__----/__---_/_-
+|       ##WMMWWWWWWMW|  /    |    /         /  --,        /         /    /   )  /   )  /  
+|         $$MWWWWWWMM|_/_____|___/_________(____/________/_________/____(___/__/___/__(_ __
+|         @$MMWWWWMMW| By TriPhorceJ                                       /     
++--------------------+ Made with CSharp                                (_ /
+```
 You can use the [editor on GitHub](https://github.com/TriPhorceJ/TriPhorceJ.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
