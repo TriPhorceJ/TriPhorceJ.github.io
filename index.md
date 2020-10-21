@@ -1,4 +1,4 @@
-# TriPhorceJ
+## TriPhorceJ
 
 ## Welcome to GitHub Pages
 
